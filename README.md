@@ -1,9 +1,5 @@
 ### Olá eu sou o Tiago Amaral 👋
 
-**TiagoAmaralFerreira/TiagoAmaralFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalho com suporte de sistema ...
 - 🌱 Estudante JavaScript e NodeJs ...
 - 💬 Pergunte-me sobre Javascript, React Native e NodeJs ...
